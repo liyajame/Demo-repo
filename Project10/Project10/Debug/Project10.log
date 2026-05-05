@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\liyaj\source\repos\Project10\main.cpp(19,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  Project10.vcxproj -> C:\Users\liyaj\source\repos\Project10\Debug\Project10.exe
