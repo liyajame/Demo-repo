@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using System.Net.Http.Headers;
 
 namespace Themovieratingapp;
-
 static class Program
 {
     private static List<Movie> Movies;
